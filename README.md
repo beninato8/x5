@@ -3,6 +3,6 @@
 ## Team Members
 
  - Nicholas Beninato
- - Noah Philips
+ - Noah Phillips
  - Zhenya Liu
  - Roberto Soto
